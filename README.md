@@ -7,4 +7,3 @@ Exercises and practice projects while deepening React skills alongside professio
 - Component architecture
 - State management
 - API integration
-
